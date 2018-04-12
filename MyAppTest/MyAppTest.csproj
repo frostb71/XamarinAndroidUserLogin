@@ -51,6 +51,7 @@
     <Compile Include="Data Layer\SQLite.cs" />
     <Compile Include="Activities\MainActivity.cs" />
     <Compile Include="Activities\RegisterActivity.cs" />
+    <Compile Include="Resources\layout\Register.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
